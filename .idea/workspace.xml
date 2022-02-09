@@ -15,10 +15,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c27313d4-6ce4-4779-a2c5-ad98ce5ac726" name="Default Changelist" comment="feat: add container3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c27313d4-6ce4-4779-a2c5-ad98ce5ac726" name="Default Changelist" comment="feat: add button">
       <change beforePath="$PROJECT_DIR$/css/registration.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/registration.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/registration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <workItem from="1644403639097" duration="5000" />
       <workItem from="1644403695552" duration="4005000" />
       <workItem from="1644409423952" duration="1600000" />
-      <workItem from="1644411047225" duration="1054000" />
+      <workItem from="1644411047225" duration="1126000" />
     </task>
     <task id="LOCAL-00001" summary="init: start project">
       <created>1644295726132</created>
@@ -289,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644411675541</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="feat: add button">
+      <created>1644412143615</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1644412143615</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,13 +336,13 @@
     <MESSAGE value="closed: box1" />
     <MESSAGE value="feat: add text2" />
     <MESSAGE value="feat: add lox" />
-    <MESSAGE value="feat: add button" />
     <MESSAGE value="closed: button" />
     <MESSAGE value="feat: add link" />
     <MESSAGE value="input: start project" />
     <MESSAGE value="init: start project" />
     <MESSAGE value="feat: add container3" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add container3" />
+    <MESSAGE value="feat: add button" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add button" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1644407726793">
