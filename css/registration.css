@@ -35,3 +35,18 @@ h2{
     opacity: 0.5;
     margin-left: 16px;
 }
+button{
+    width: 384px;
+    height: 48px;
+    background-color: rgba(35, 37, 41, 1);
+    color: rgba(255, 255, 255, 1);
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    margin: 16px 128px 48px 128px;
+    border: 0;
+}
+.site{
+    color: white;
+    text-decoration: none;
+}
