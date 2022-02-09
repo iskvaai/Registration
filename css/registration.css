@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.container3{
+    background-color: white;
+    width: 640px;
+    height: 264px;
+    margin: 344px 400px 416px 400px;
+}
+h1{
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    height: 24px;
+    width: 256px;
+    border-radius:0;
+    padding-top: 40px;
+    padding-left: 192px;
+
+}
+h2{
+    font-size: 14px;
+    line-height: 18px;
+    text-align: left;
+    height: 16px;
+    width: 198px;
+    border-radius:0;
+    padding-left: 16px;
+}
+.box{
+    height: 48px;
+    width: 608px;
+    border-radius: 4px;
+    border: 0.5px solid #DADADA;
+    opacity: 0.5;
+    margin-left: 16px;
+}
