@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+
+}
+.container{
+    background-color: rgba(255, 255, 255, 1);
+    width: 640px;
+    height: 328px;
+    border-radius: 4px;
+    margin: 344px 400px 352px 400px;
+
+}
+h1{
+    line-height: 20px;
+    text-align: center;
+    font-size: 16px;
+    width: 248px;
+    height: 24px;
+    padding: 40px 196px 8px 196px;
+
+}
+h2{
+    height: 32px;
+    width: 256px;
+    border-radius: 0;
+    font-size: 14px;
+    text-align: center;
+    color:  #A9A9A9;
+    padding-left: 192px;
+    padding-right: 192px;
+}
+.photo{
+    width: 80px;
+    height: 80px;
+    padding-left: 280px;
+    padding-right: 280px;
+    padding-bottom: 32px;
+}
+button{
+    width: 384px;
+    height: 48px;
+    background-color: rgba(35, 37, 41, 1);
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    border: 0;
+    border-radius: 4px;
+    color: rgba(255, 255, 255, 1) ;
+    margin: 0 128px 48px 128px;
+}
